@@ -33,5 +33,3 @@ Follow these steps to set up a monitoring system using AWS services:
 
 7. **Verification**
    - Check your email or phone to verify the success of the setup.
-
-Testing to se if email is connected
