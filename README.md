@@ -20,6 +20,7 @@ Follow these steps to set up a monitoring system using AWS services:
 4. **CloudWatch Rule**
 
    - Set up a CloudWatch rule to respond to specific AWS events.
+   - See https://docs.aws.amazon.com/guardduty/latest/ug/guardduty_findings_cloudwatch.html for instructions
 
 5. **Create a CloudWatch Alarm**
 
