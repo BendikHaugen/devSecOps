@@ -1,4 +1,4 @@
-variable "PHONE_NUMBER" {
+variable "EMAIL" {
   type        = string
-  description = "Phone number for SMS notifications"
+  description = "Email for notifications"
 }
